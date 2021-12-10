@@ -9,4 +9,6 @@ foodate.) Now the public page only can be viewd by Babson members.
 
 *Attribution/Reference*
 For Loop ( Javascript ) https://developers.hubspot.com/docs/cms/hubl/for-loops
-HighCharts Tutorial: https://www.tutorialspoint.com/highcharts/index.htm
+HighCharts Tutorial: https://www.tutorialspoint.com/highcharts/index.htm 
+
+*Welcome to contact us for any question*
